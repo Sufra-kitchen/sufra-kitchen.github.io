@@ -1,0 +1,21 @@
+{
+ "name": "Sufra",
+ "short_name": "Sufra",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "icons": [
+  {
+   "src": "sufra-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "sufra-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
